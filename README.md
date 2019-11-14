@@ -1,3 +1,8 @@
+## THIS IS A FORK!
+You're probably looking for the ORIGINAL repo at [https://github.com/OoliteProject/oolite](https://github.com/OoliteProject/oolite)
+
+
+
 [![Build Status (Mac)](https://api.travis-ci.org/OoliteProject/oolite.svg)](https://travis-ci.org/OoliteProject/oolite)
 
 [![GitHub release](https://img.shields.io/github/release/OoliteProject/Oolite.svg)](https://github.com/OoliteProject/Oolite/releases/latest)
